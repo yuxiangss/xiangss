@@ -2,8 +2,8 @@
 int main()
 {
     int a,b,c;
-    a=40;
-    b=30;
+    a=10;
+    b=40;
     c=a+b;
     printf("%d\n",c);
     return 0;
